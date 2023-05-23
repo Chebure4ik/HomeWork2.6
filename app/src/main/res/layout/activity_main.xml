@@ -70,7 +70,7 @@
             android:layout_height="wrap_content"
             android:padding="25dp"
             android:layout_marginStart="19dp"
-            android:text="СТОП"
+            android:text="ТАЙМЕР"
             android:textStyle="bold"
             android:textSize="17sp" />
     </LinearLayout>
